@@ -47,3 +47,7 @@ Enhance the Medical History module with detailed records.
 Add user authentication and access control for different roles (admin, doctor, etc.).
 Improve the UI design for a better user experience.
 
+
+just download **HealthCareSystemApp.java** and run in your jdk enviroment. 
+
+
